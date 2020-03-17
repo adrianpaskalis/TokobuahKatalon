@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>test case ideal untuk menyimpan produk</description>
+   <name>Tambah Product Panjang Character 1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f06f77d7-2a8d-4370-a1a7-6ab42cdb18ab</testCaseGuid>
+</TestCaseEntity>

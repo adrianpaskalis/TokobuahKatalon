@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>test case untuk memeriksa panjang character 1</description>
+   <name>Tambah Product Nama 1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a646d33b-79d1-4e4d-94f6-405c5797df0a</testCaseGuid>
+</TestCaseEntity>

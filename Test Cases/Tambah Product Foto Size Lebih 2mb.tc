@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>test case untuk memeriksa panjang character 1</description>
+   <name>Tambah Product Foto Size Lebih 2mb</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d98aa643-1dfe-41e0-814f-3e833926fa60</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Edit status_message</name>
+   <tag></tag>
+   <elementGuidId>c7e20a38-18c0-4f96-b39f-1caadc3bb7cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='message']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-no-org-url</name>
+      <type>Main</type>
+      <value>/autocomplete/user-suggestions</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-org-url</name>
+      <type>Main</type>
+      <value>/suggestions?mention_suggester=1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-maxlength</name>
+      <type>Main</type>
+      <value>80</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-table-cell width-full form-control js-user-status-message-field js-characters-remaining-field</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>What's happening?</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>message</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>What is your current status?</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;logged-in env-production page-responsive full-width intent-mouse&quot;]/div[@class=&quot;position-relative js-header-wrapper&quot;]/header[@class=&quot;Header js-details-container Details flex-wrap flex-lg-nowrap p-responsive&quot;]/div[@class=&quot;Header-item position-relative mr-0 d-none d-lg-flex&quot;]/details[@class=&quot;details-overlay details-reset js-feature-preview-indicator-container&quot;]/details-menu[@class=&quot;dropdown-menu dropdown-menu-sw mt-2&quot;]/div[@class=&quot;pl-3 pr-3 f6 user-status-container js-user-status-context pb-1&quot;]/div[@class=&quot;js-user-status-container
+    user-status-compact rounded-1 px-2 py-1 mt-2
+    border&quot;]/details[@class=&quot;js-user-status-details details-reset details-overlay details-overlay-dark&quot;]/details-dialog[@class=&quot;details-dialog rounded-1 anim-fade-in fast Box Box--overlay&quot;]/form[@class=&quot;position-relative flex-auto js-user-status-form&quot;]/div[@class=&quot;px-3 py-2 text-gray-dark&quot;]/div[@class=&quot;js-characters-remaining-container position-relative mt-2&quot;]/div[@class=&quot;input-group d-table form-group my-0 js-user-status-form-group&quot;]/text-expander[1]/input[@class=&quot;d-table-cell width-full form-control js-user-status-message-field js-characters-remaining-field&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='message']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//text-expander/input</value>
+   </webElementXpaths>
+</WebElementEntity>
