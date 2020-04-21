@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TokoBuah</name>
+   <name>Validasi List Product 1</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>d0560318-9fa7-43da-a4e7-cd385eb76ef0</testCaseGuid>
+   <testCaseGuid>99b58971-e6de-4e5a-9aae-d98e1251ab06</testCaseGuid>
 </TestCaseEntity>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TokoBuah</name>
+   <name>Test Statement Login Admin Tokobuah</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>d0560318-9fa7-43da-a4e7-cd385eb76ef0</testCaseGuid>
+   <testCaseGuid>077914d5-ab6c-400d-95c5-96aaa016c6b9</testCaseGuid>
 </TestCaseEntity>
