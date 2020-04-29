@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Login Tokobuah_Variabel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>711fafd6-16ec-49f8-a6b4-eb9924d779d0</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d08ff9b9-e698-4c38-9c9c-68b9519efded</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c1db8897-488b-407d-9f1f-654db1624857</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

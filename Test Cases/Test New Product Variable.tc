@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>test case ideal untuk menyimpan produk</description>
+   <name>Test New Product Variable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2a019346-1c4a-408d-9d11-7872ed5b5946</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>12d430b7-19a6-4045-a7d7-ebafab03c00e</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>05821920-56d8-46cf-93bc-2d44563feade</id>
+      <masked>false</masked>
+      <name>price</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e12bc376-4fe8-4ce5-a451-b0f229807eb9</id>
+      <masked>false</masked>
+      <name>description</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>20e2968c-fe0a-4e64-aa35-f6fb97b5e094</id>
+      <masked>false</masked>
+      <name>expired</name>
+   </variable>
+</TestCaseEntity>
